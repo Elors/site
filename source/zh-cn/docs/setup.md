@@ -54,7 +54,7 @@ $ npm install
 
 ### scaffolds
 
-[模版](zh-cn/docs/writing.html) 文件夹。当您新建文章时，Hexo 会根据 scaffold 来建立文件。
+[模版](zh-cn/docs/templates.html) 文件夹。当您新建文章时，Hexo 会根据 scaffold 来建立文件。
 
 ### source
 
